@@ -13,7 +13,7 @@
 
 # <Subject> 규칙
 # 작성방법 : [Type] | [파일명]
-<Type> | <Subject>
+<Type>: <Subject>
 
 # <Body> 규칙
 # 작성방법 : "무엇을", "왜" 변경하였는지 간단하게 작성 (#이슈번호)
