@@ -1,0 +1,21 @@
+    ======  ======
+    Time:2022-12-05 오후 4:41:53
+    Title: Initiate log
+    Message: 
+    Time:2022-12-05 오후 4:41:53
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:2022-12-05 오후 4:41:53
+    Title: Requesting EVT
+    Message: EVTP
+    Time:2022-12-05 오후 4:41:53
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:2022-12-05 오후 4:41:53
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:2022-12-05 오후 4:41:53
+    Title: Requesting Validation
+    Message: ILMValidate True NotTrial
+    Entering constructor for: Telerik.CommonPackage.VSPackage
+    Entering Initialize() of: Telerik.CommonPackage.VSPackage
