@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kBzKdVAsZSkdGu/umb4fAhlsdcSgxhxgzAjEHL23Om0GMKv7GqZus7A4B7VYezlmpP0vsQEQGu2UCU8uHYvvQA==",
+  "success": true,
+  "projectFilePath": "D:\\github\\thisiscsharp\\chapter02\\Hello.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://package.mirero.co.kr/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
