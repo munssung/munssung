@@ -1,21 +1,27 @@
     ======  ======
-    Time:2022-12-06 오전 10:24:57
+    Time:2022-12-08 오전 9:31:13
     Title: Initiate log
     Message: 
-    Time:2022-12-06 오전 10:24:57
+    Time:2022-12-08 오전 9:31:13
     Title: Initiate InternalManager
     Message: Trying to Validate License
-    Time:2022-12-06 오전 10:24:57
+    Time:2022-12-08 오전 9:31:13
     Title: Requesting EVT
     Message: EVTP
-    Time:2022-12-06 오전 10:24:57
+    Time:2022-12-08 오전 9:31:13
     Title: Requesting Validation
     Message: ILMValidate
-    Time:2022-12-06 오전 10:24:57
+    Time:2022-12-08 오전 9:31:13
     Title: Requesting Validation
     Message: ILMValidate True
-    Time:2022-12-06 오전 10:24:57
+    Time:2022-12-08 오전 9:31:13
     Title: Requesting Validation
     Message: ILMValidate True NotTrial
     Entering constructor for: Telerik.CommonPackage.VSPackage
     Entering Initialize() of: Telerik.CommonPackage.VSPackage
+    Exception : 잘못된 클립보드 형식입니다. (예외가 발생한 HRESULT: 0x8004006A (DV_E_CLIPFORMAT))
+    Exception : 잘못된 클립보드 형식입니다. (예외가 발생한 HRESULT: 0x8004006A (DV_E_CLIPFORMAT))
+    Exception : 잘못된 클립보드 형식입니다. (예외가 발생한 HRESULT: 0x8004006A (DV_E_CLIPFORMAT))
+    Exception : 잘못된 클립보드 형식입니다. (예외가 발생한 HRESULT: 0x8004006A (DV_E_CLIPFORMAT))
+    Exception : 잘못된 클립보드 형식입니다. (예외가 발생한 HRESULT: 0x8004006A (DV_E_CLIPFORMAT))
+    Exception : 잘못된 클립보드 형식입니다. (예외가 발생한 HRESULT: 0x8004006A (DV_E_CLIPFORMAT))
