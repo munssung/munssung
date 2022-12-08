@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "thisiscsharp", "thisiscshar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello", "thisiscsharp\chapter02\Hello.csproj", "{2BD5266D-3848-4BEE-B33F-F53846D8823D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chapter03", "thisiscsharp\chapter03\chapter03.csproj", "{C44ECC90-87C1-434C-BD4A-D00574450ABB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{2BD5266D-3848-4BEE-B33F-F53846D8823D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD5266D-3848-4BEE-B33F-F53846D8823D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD5266D-3848-4BEE-B33F-F53846D8823D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C44ECC90-87C1-434C-BD4A-D00574450ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44ECC90-87C1-434C-BD4A-D00574450ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44ECC90-87C1-434C-BD4A-D00574450ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44ECC90-87C1-434C-BD4A-D00574450ABB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{D3F903D4-064E-4BB2-BBA0-A2D2CF614A87} = {0138B979-4C66-4829-8732-098D6970E6E8}
 		{E6C8E1CD-8FDB-47FE-AC00-B75CE43BB73E} = {0138B979-4C66-4829-8732-098D6970E6E8}
 		{2BD5266D-3848-4BEE-B33F-F53846D8823D} = {60093E73-3A4B-4FB9-9DE6-F3406BEB1885}
+		{C44ECC90-87C1-434C-BD4A-D00574450ABB} = {60093E73-3A4B-4FB9-9DE6-F3406BEB1885}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C1357D6B-1932-459A-B32C-EA6E28D43849}
