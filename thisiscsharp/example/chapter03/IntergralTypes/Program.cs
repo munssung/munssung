@@ -1,9 +1,9 @@
 ﻿using System;
 using static System.Console;
 
-namespace chapter03;
+namespace IntergralTypes;
 
-class IntegralTypes
+class MainApp
 {
     static void Main(string[] args)
     {
@@ -27,4 +27,4 @@ class IntegralTypes
 
         WriteLine($"g = {g}, h = {h}");
     }
-} 
+}

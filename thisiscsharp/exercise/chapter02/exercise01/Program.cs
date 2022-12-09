@@ -1,9 +1,9 @@
 ﻿using System;
 using static System.Console;
 
-namespace exercise;
+namespace exercise01;
 
-class exercise1
+class MainApp
 {
     static void Main(string[] args)
     {
