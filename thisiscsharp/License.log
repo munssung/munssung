@@ -1,20 +1,20 @@
     ======  ======
-    Time:2023-01-05 오전 9:15:26
+    Time:2023-02-07 오전 9:09:14
     Title: Initiate log
     Message: 
-    Time:2023-01-05 오전 9:15:26
+    Time:2023-02-07 오전 9:09:14
     Title: Initiate InternalManager
     Message: Trying to Validate License
-    Time:2023-01-05 오전 9:15:26
+    Time:2023-02-07 오전 9:09:14
     Title: Requesting EVT
     Message: EVTP
-    Time:2023-01-05 오전 9:15:26
+    Time:2023-02-07 오전 9:09:14
     Title: Requesting Validation
     Message: ILMValidate
-    Time:2023-01-05 오전 9:15:26
+    Time:2023-02-07 오전 9:09:14
     Title: Requesting Validation
     Message: ILMValidate True
-    Time:2023-01-05 오전 9:15:26
+    Time:2023-02-07 오전 9:09:14
     Title: Requesting Validation
     Message: ILMValidate True NotTrial
     Entering constructor for: Telerik.CommonPackage.VSPackage
