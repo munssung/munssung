@@ -67,6 +67,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringModify", "example\cha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringSlice", "example\chapter03\StringSlice\StringSlice.csproj", "{8E7995AF-92F0-4143-9FD6-BB66CCA3851A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFormatBasic", "example\chapter03\StringFormatBasic\StringFormatBasic.csproj", "{95EDB3C4-5A1B-4E84-9542-90E724CE0A29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,10 @@ Global
 		{8E7995AF-92F0-4143-9FD6-BB66CCA3851A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E7995AF-92F0-4143-9FD6-BB66CCA3851A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E7995AF-92F0-4143-9FD6-BB66CCA3851A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EDB3C4-5A1B-4E84-9542-90E724CE0A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EDB3C4-5A1B-4E84-9542-90E724CE0A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EDB3C4-5A1B-4E84-9542-90E724CE0A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EDB3C4-5A1B-4E84-9542-90E724CE0A29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -216,6 +222,7 @@ Global
 		{78128F8B-D410-4005-A4F7-C83D5D05B8BC} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
 		{EF4E25BD-B49C-458A-9788-378A0EDE1DE8} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
 		{8E7995AF-92F0-4143-9FD6-BB66CCA3851A} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
+		{95EDB3C4-5A1B-4E84-9542-90E724CE0A29} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {69D8E72F-8001-49B2-9866-58EB391C05B2}
