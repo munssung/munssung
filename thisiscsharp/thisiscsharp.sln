@@ -7,63 +7,72 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "example", "example", "{7413
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapter02", "chapter02", "{72578173-B47E-4AFF-8E1B-6006CA921C11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "example\chapter02\Hello\Hello.csproj", "{0105E15C-B3B1-4B50-9D95-4C43C4C01CFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello", "example\chapter02\Hello\Hello.csproj", "{0105E15C-B3B1-4B50-9D95-4C43C4C01CFD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapter03", "chapter03", "{D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergerLiterals", "example\chapter03\IntergerLiterals\IntergerLiterals.csproj", "{3B653CD8-1C18-42B1-880D-762B5787AEA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntergerLiterals", "example\chapter03\IntergerLiterals\IntergerLiterals.csproj", "{3B653CD8-1C18-42B1-880D-762B5787AEA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergralTypes", "example\chapter03\IntergralTypes\IntergralTypes.csproj", "{C279E6F7-041A-4CFE-B60F-9D7EDB083777}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntergralTypes", "example\chapter03\IntergralTypes\IntergralTypes.csproj", "{C279E6F7-041A-4CFE-B60F-9D7EDB083777}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercise", "exercise", "{FFD39283-E859-4F2D-99E5-E92636D0F93F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapter02", "chapter02", "{2139C359-0067-4361-8B83-419B92ABB381}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercise01", "exercise\chapter02\exercise01\exercise01.csproj", "{2EAC2A13-B2DF-4911-9124-1DB97EB2073F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercise01", "exercise\chapter02\exercise01\exercise01.csproj", "{2EAC2A13-B2DF-4911-9124-1DB97EB2073F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignedUnsigned", "example\chapter03\SignedUnsigned\SignedUnsigned.csproj", "{CF63308E-2B32-4D45-ADAA-6BCB783C1D2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignedUnsigned", "example\chapter03\SignedUnsigned\SignedUnsigned.csproj", "{CF63308E-2B32-4D45-ADAA-6BCB783C1D2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overflow", "example\chapter03\Overflow\Overflow.csproj", "{914CE4D7-C4C6-4DF6-BF4A-07C9353B901B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overflow", "example\chapter03\Overflow\Overflow.csproj", "{914CE4D7-C4C6-4DF6-BF4A-07C9353B901B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatingPoint", "example\chapter03\FloatingPoint\FloatingPoint.csproj", "{75D3217C-5D05-462C-8F78-BBB00517FEC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FloatingPoint", "example\chapter03\FloatingPoint\FloatingPoint.csproj", "{75D3217C-5D05-462C-8F78-BBB00517FEC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decimal", "example\chapter03\Decimal\Decimal.csproj", "{9B3410F3-9CB4-4924-9621-A780245B7F69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decimal", "example\chapter03\Decimal\Decimal.csproj", "{9B3410F3-9CB4-4924-9621-A780245B7F69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Char", "example\chapter03\Char\Char.csproj", "{99D035B1-DEDE-4CDB-9977-C57AC39B79C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Char", "example\chapter03\Char\Char.csproj", "{99D035B1-DEDE-4CDB-9977-C57AC39B79C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bool", "example\chapter03\Bool\Bool.csproj", "{8B5D202F-DA1A-4820-8170-FD4AE252841C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bool", "example\chapter03\Bool\Bool.csproj", "{8B5D202F-DA1A-4820-8170-FD4AE252841C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object", "example\chapter03\Object\Object.csproj", "{F844BDEB-DBBD-43D8-AA9D-8413018AC050}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object", "example\chapter03\Object\Object.csproj", "{F844BDEB-DBBD-43D8-AA9D-8413018AC050}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingUnboxing", "example\chapter03\BoxingUnboxing\BoxingUnboxing.csproj", "{FBEB9791-03AE-402D-8F30-63B03F6B74F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxingUnboxing", "example\chapter03\BoxingUnboxing\BoxingUnboxing.csproj", "{FBEB9791-03AE-402D-8F30-63B03F6B74F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegralConversion", "example\chapter03\IntegralConversion\IntegralConversion.csproj", "{893B4835-423A-4E82-9277-8CE418ACB71D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegralConversion", "example\chapter03\IntegralConversion\IntegralConversion.csproj", "{893B4835-423A-4E82-9277-8CE418ACB71D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatConversion", "example\chapter03\FloatConversion\FloatConversion.csproj", "{524EB73A-420F-4F3E-9AC7-5D0D5A0435BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FloatConversion", "example\chapter03\FloatConversion\FloatConversion.csproj", "{524EB73A-420F-4F3E-9AC7-5D0D5A0435BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignedUnsignedConversion", "example\chapter03\SignedUnsignedConversion\SignedUnsignedConversion.csproj", "{D0980115-E42A-4351-B89F-6DB29A278E61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignedUnsignedConversion", "example\chapter03\SignedUnsignedConversion\SignedUnsignedConversion.csproj", "{D0980115-E42A-4351-B89F-6DB29A278E61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatToInteger", "example\chapter03\FloatToInteger\FloatToInteger.csproj", "{B4A51620-103E-4214-B8E3-A2C70AB44709}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FloatToInteger", "example\chapter03\FloatToInteger\FloatToInteger.csproj", "{B4A51620-103E-4214-B8E3-A2C70AB44709}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringNumberCoversion", "example\chapter03\StringNumberCoversion\StringNumberCoversion.csproj", "{B26AFA4F-73B1-4B91-9BA6-DE36A859B35C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringNumberCoversion", "example\chapter03\StringNumberCoversion\StringNumberCoversion.csproj", "{B26AFA4F-73B1-4B91-9BA6-DE36A859B35C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constant", "example\chapter03\Constant\Constant.csproj", "{433B0382-823E-4B6B-9A56-EEE9320525A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constant", "example\chapter03\Constant\Constant.csproj", "{433B0382-823E-4B6B-9A56-EEE9320525A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "example\chapter03\Enum\Enum.csproj", "{AE99AC67-D29D-4B56-B951-B692BAD281A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "example\chapter03\Enum\Enum.csproj", "{AE99AC67-D29D-4B56-B951-B692BAD281A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum2", "example\chapter03\Enum2\Enum2.csproj", "{3DD31691-BABE-4911-89D2-DEEB1ED71BCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum2", "example\chapter03\Enum2\Enum2.csproj", "{3DD31691-BABE-4911-89D2-DEEB1ED71BCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum3", "example\chapter03\Enum3\Enum3.csproj", "{3CE380B2-286E-48DE-8C38-054F382F1721}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum3", "example\chapter03\Enum3\Enum3.csproj", "{3CE380B2-286E-48DE-8C38-054F382F1721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable", "example\chapter03\Nullable\Nullable.csproj", "{023A5105-05A8-4712-86BA-733B28FC4974}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nullable", "example\chapter03\Nullable\Nullable.csproj", "{023A5105-05A8-4712-86BA-733B28FC4974}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingVar", "example\chapter03\UsingVar\UsingVar.csproj", "{C9E94E05-83C5-450F-8839-C18759F7FE94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CTS", "example\chapter03\CTS\CTS.csproj", "{E19FBB67-CBB0-48FC-9746-4F44EB4D22A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringSearch", "example\chapter03\StringSearch\StringSearch.csproj", "{78128F8B-D410-4005-A4F7-C83D5D05B8BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringModify", "example\chapter03\StringModify\StringModify.csproj", "{EF4E25BD-B49C-458A-9788-378A0EDE1DE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringSlice", "example\chapter03\StringSlice\StringSlice.csproj", "{8E7995AF-92F0-4143-9FD6-BB66CCA3851A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringFormatBasic", "example\chapter03\stringFormatBasic\StringFormatBasic.csproj", "{18D2890E-C498-43B8-835E-411132C0F4BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{0105E15C-B3B1-4B50-9D95-4C43C4C01CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -154,6 +163,33 @@ Global
 		{023A5105-05A8-4712-86BA-733B28FC4974}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{023A5105-05A8-4712-86BA-733B28FC4974}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{023A5105-05A8-4712-86BA-733B28FC4974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E94E05-83C5-450F-8839-C18759F7FE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E94E05-83C5-450F-8839-C18759F7FE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E94E05-83C5-450F-8839-C18759F7FE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E94E05-83C5-450F-8839-C18759F7FE94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E19FBB67-CBB0-48FC-9746-4F44EB4D22A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19FBB67-CBB0-48FC-9746-4F44EB4D22A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19FBB67-CBB0-48FC-9746-4F44EB4D22A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19FBB67-CBB0-48FC-9746-4F44EB4D22A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78128F8B-D410-4005-A4F7-C83D5D05B8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78128F8B-D410-4005-A4F7-C83D5D05B8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78128F8B-D410-4005-A4F7-C83D5D05B8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78128F8B-D410-4005-A4F7-C83D5D05B8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4E25BD-B49C-458A-9788-378A0EDE1DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4E25BD-B49C-458A-9788-378A0EDE1DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4E25BD-B49C-458A-9788-378A0EDE1DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4E25BD-B49C-458A-9788-378A0EDE1DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7995AF-92F0-4143-9FD6-BB66CCA3851A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7995AF-92F0-4143-9FD6-BB66CCA3851A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7995AF-92F0-4143-9FD6-BB66CCA3851A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7995AF-92F0-4143-9FD6-BB66CCA3851A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D2890E-C498-43B8-835E-411132C0F4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D2890E-C498-43B8-835E-411132C0F4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D2890E-C498-43B8-835E-411132C0F4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D2890E-C498-43B8-835E-411132C0F4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{72578173-B47E-4AFF-8E1B-6006CA921C11} = {74136E24-366C-4B83-9A4C-A699EA37F217}
@@ -181,5 +217,14 @@ Global
 		{3DD31691-BABE-4911-89D2-DEEB1ED71BCF} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
 		{3CE380B2-286E-48DE-8C38-054F382F1721} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
 		{023A5105-05A8-4712-86BA-733B28FC4974} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
+		{C9E94E05-83C5-450F-8839-C18759F7FE94} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
+		{E19FBB67-CBB0-48FC-9746-4F44EB4D22A3} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
+		{78128F8B-D410-4005-A4F7-C83D5D05B8BC} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
+		{EF4E25BD-B49C-458A-9788-378A0EDE1DE8} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
+		{8E7995AF-92F0-4143-9FD6-BB66CCA3851A} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
+		{18D2890E-C498-43B8-835E-411132C0F4BF} = {D2F38B57-AA11-40DE-AE33-4AE5DB3BD9F0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69D8E72F-8001-49B2-9866-58EB391C05B2}
 	EndGlobalSection
 EndGlobal
